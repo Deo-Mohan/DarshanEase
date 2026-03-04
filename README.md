@@ -8,10 +8,10 @@
     <strong>A Smart Spiritual Travel Platform for Seamless Pilgrimage Experiences</strong>
     <br />
     <br />
-    <a href="https://youtu.be/GozuRtBVmJk?si=YfQ5BDaxbVjowcki"><strong>Explore the docs »</strong></a>
+    <a href="#noDocsRightNow"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="#-project-preview">View Demo</a>
+    <a href="https://youtu.be/GozuRtBVmJk?si=YfQ5BDaxbVjowcki">View Demo</a>
     ·
     <a href="https://github.com/Deo-Mohan/DarshanEase/issues">Report Bug</a>
     ·
