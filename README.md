@@ -8,7 +8,7 @@
     <strong>A Smart Spiritual Travel Platform for Seamless Pilgrimage Experiences</strong>
     <br />
     <br />
-    <a href="#-getting-started"><strong>Explore the docs »</strong></a>
+    <a href="https://youtu.be/GozuRtBVmJk?si=YfQ5BDaxbVjowcki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#-project-preview">View Demo</a>
